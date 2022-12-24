@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grace_Jia
 - 👀 I’m interested in statistics modelling and machine learning.
-- 🌱 I’m currently learning functional data analysis and clinical trialsd.
-- 💞️ I’m a statistics PhD student in SFU.
+- 🌱 I’m currently learning functional data analysis.
+- 💞️ I’m a statistics PhD student in Simon Fraser University.
 - 📫 How to reach me at shifan_jia@sfu.ca
 
 <!---
